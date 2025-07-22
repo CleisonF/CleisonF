@@ -28,7 +28,7 @@ Atualmente estou aprendendo e desenvolvendo projetos com:
 ---
 
 ### 🔗 Conecte-se comigo!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleison-faleta-05055b332/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleison-faleta-459076372/)
 
 ---
 
